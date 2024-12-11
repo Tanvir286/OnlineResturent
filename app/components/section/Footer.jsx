@@ -67,7 +67,7 @@ const Footer = () => {
 
           <ul className="font-figtree  font-normal lg:text-lg space-y-2.5 lg:space-y-4">
             <li>
-              <a href="">Privacy Policy</a>
+              <a href="/">Home</a>
             </li>
 
             <li>

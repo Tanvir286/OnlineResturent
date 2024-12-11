@@ -74,7 +74,7 @@ const Banner = () => {
              
             {/* box part start */}
             <div className="flex justify-center mt-16">
-                <div className="grid gap-6 bg-white px-14 py-5 shadow-xl xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
+                <div className="grid gap-6 bg-white px-14 py-8 shadow-xl xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
                     <FeatureItem 
                         imageSrc="/images/banner/discount.png" 
                         title="Discount" 

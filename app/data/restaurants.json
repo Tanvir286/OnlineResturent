@@ -1,0 +1,148 @@
+{
+    "restaurant": [
+        {
+            "id": 1,
+            "images": [
+                "/images/shop/01.jpg",
+                "/images/shop/02.jpg",
+                "/images/shop/03.jpg"
+            ],
+            "title": "Dhaka Biryani",
+            "rating": "4.5",
+            "location": "Gulshan Avenue, Dhaka",
+            "description": "Famous for its aromatic biryani, cooked with premium spices and tender meat"
+        },
+        {
+            "id": 2,
+            "images": [
+                "/images/shop/02.jpg",
+                "/images/shop/08.jpg",
+                "/images/shop/02.jpg"
+            ],
+            "title": "Old Kabab",
+            "rating": "4.7",
+            "location": "Nazira Bazar, Old Dhaka",
+            "description": "Known for its rich, spicy kababs and parathas, a staple of Old Dhaka's culinary scene."
+        },
+        {
+            "id": 3,
+            "images": [
+                "/images/shop/03.jpg",
+                "/images/shop/09.jpg",
+                "/images/shop/11.jpg"
+            ],
+            "title": "Star Kabab",
+            "rating": "4.8",
+            "location": "Dhanmondi Road 12, Dhaka",
+            "description": "A favorite spot for traditional Bengali dishes and mouthwatering kababs."
+        },
+        {
+            "id": 4,
+            "images": [
+                "/images/shop/04.jpg",
+                "/images/shop/12.jpg",
+                "/images/shop/02.jpg"
+            ],
+            "title": "Puran Dhaka",
+            "rating": "4.6",
+            "location": "Chawk Bazar, Old Dhaka",
+            "description": "Offering a variety of traditional Bengali sweets, made fresh daily."
+        },
+        {
+            "id": 5,
+            "images": [
+                "/images/shop/05.jpg",
+                "/images/shop/08.jpg",
+                "/images/shop/01.jpg"
+            ],
+            "title": "Pitha Ghar",
+            "rating": "4.9",
+            "location": "Shyamoli, Dhaka",
+            "description": "Known for its delicious pithas, served fresh and warm throughout the year."
+        },
+        {
+            "id": 6,
+            "images": [
+                "/images/shop/06.jpg",
+                "/images/shop/03.jpg",
+                "/images/shop/06.jpg"
+            ],
+            "title": "Food Court",
+            "rating": "4.3",
+            "location": "Bashundhara City Mall, Dhaka",
+            "description": "A bustling food court offering a wide variety of local and international cuisine."
+        },
+        {
+            "id": 7,
+            "images": [
+                "/images/shop/07.jpg",
+                "/images/shop/12.jpg",
+                "/images/shop/07.jpg"
+            ],
+            "title": "Curry Corner",
+            "rating": "4.5",
+            "location": "Mohakhali, Dhaka",
+            "description": "Serving flavorful curries and traditional Bengali rice dishes in a cozy setting."
+        },
+        {
+            "id": 8,
+            "images": [
+                "/images/shop/08.jpg",
+                "/images/shop/12.jpg",
+                "/images/shop/02.jpg"
+            ],
+            "title": "Grill House",
+            "rating": "4.7",
+            "location": "Banani Road 11, Dhaka",
+            "description": "A popular spot for grilled meats and seafood, known for its vibrant atmosphere."
+        },
+        {
+            "id": 9,
+            "images": [
+                "/images/shop/09.jpg",
+                "/images/shop/10.jpg",
+                "/images/shop/11.jpg"
+            ],
+            "title": "Fish Hut",
+            "rating": "4.4",
+            "location": "Mirpur 10, Dhaka",
+            "description": "Specializing in fresh fish curries and Bengali comfort food."
+        },
+        {
+            "id": 10,
+            "images": [
+                "/images/shop/10.jpg",
+                "/images/shop/12.jpg",
+                "/images/shop/04.jpg"
+            ],
+            "title": "Uttara Kitchen",
+            "rating": "4.6",
+            "location": "Uttara Sector 7, Dhaka",
+            "description": "A family-friendly restaurant offering a mix of traditional and modern Bengali dishes."
+        },
+        {
+            "id": 11,
+            "images": [
+                "/images/product/11.png",
+                "/images/product/09.png",
+                "/images/product/03.png"
+            ],
+            "title": "Food Express",
+            "rating": "4.2",
+            "location": "Farmgate, Dhaka",
+            "description": "Known for its quick service and delicious Bengali meals at affordable prices."
+        },
+        {
+            "id": 12,
+            "images": [
+                "/images/shop/12.jpg",
+                "/images/shop/10.jpg",
+                "/images/shop/07.jpg"
+            ],
+            "title": "Motijheel Cafe",
+            "rating": "4.3",
+            "location": "Motijheel, Dhaka",
+            "description": "A cozy cafe offering coffee, snacks, and light meals in the heart of Dhaka's business district."
+        }
+    ]
+}

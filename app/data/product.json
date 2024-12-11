@@ -1,0 +1,59 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "image": "/images/product/one.png",
+        "title": "Cheese Pizza",
+        "price": 15
+      },
+      {
+        "id": 2,
+        "image": "/images/product/two.png",
+        "title": "Burger",
+        "price": 10
+      },
+      {
+        "id": 3,
+        "image": "/images/product/three.png",
+        "title": "Pasta Carbonara",
+        "price": 12
+      },
+      {
+        "id": 4,
+        "image": "/images/product/four.png",
+        "title": "Sushi Roll",
+        "price": 18
+      },
+      {
+        "id": 5,
+        "image": "/images/product/five.png",
+        "title": "Grilled Chicken Salad",
+        "price": 14
+      },
+      {
+        "id": 6,
+        "image": "/images/product/six.png",
+        "title": "Vegetable Stir Fry",
+        "price": 11
+      },
+      {
+        "id": 7,
+        "image": "/images/product/seven.png",
+        "title": "Fish Tacos",
+        "price": 13
+      },
+      {
+        "id": 8,
+        "image": "/images/product/eight.png",
+        "title": "Beef Burritos",
+        "price": 16
+      },
+      {
+        "id": 9,
+        "image": "/images/product/nine.png",
+        "title": "Falafel Wrap",
+        "price": 9
+      }
+    ]
+  }
+  

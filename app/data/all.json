@@ -1,0 +1,110 @@
+{
+    "all": [
+      {
+        "id": 1,
+        "image": "/images/allproduct/01.jpg",
+        "title": "Cheese Pizza",
+        "subtitle": "Delicious cheese pizza with appetizing .",
+        "price": 15
+      },
+      {
+        "id": 2,
+        "image": "/images/allproduct/02.jpg",
+        "title": "Classic Burger",
+        "subtitle": "Juicy beef patty with fresh toppings.",
+        "price": 12
+      },
+      {
+        "id": 3,
+        "image": "/images/allproduct/03.jpg",
+        "title": "Caesar Salad",
+        "subtitle": "Crispy romaine with creamy Caesar .",
+        "price": 10
+      },
+      {
+        "id": 4,
+        "image": "/images/allproduct/04.jpg",
+        "title": "Spaghetti Carbonara",
+        "subtitle": "Rich and creamy pasta with pancetta.",
+        "price": 18
+      },
+      {
+        "id": 5,
+        "image": "/images/allproduct/05.jpg",
+        "title": "BBQ Ribs",
+        "subtitle": "Slow-cooked ribs with tangy BBQ .",
+        "price": 22
+      },
+      {
+        "id": 6,
+        "image": "/images/allproduct/06.jpg",
+        "title": "Grilled Salmon",
+        "subtitle": "Perfectly grilled salmon with lemon.",
+        "price": 24
+      },
+      {
+        "id": 7,
+        "image": "/images/allproduct/07.jpg",
+        "title": "Tacos Al Pastor",
+        "subtitle": "Authentic tacos with marinated pork.",
+        "price": 14
+      },
+      {
+        "id": 8,
+        "image": "/images/allproduct/08.jpg",
+        "title": "Chicken Wings",
+        "subtitle": "Crispy wings with your choice of.",
+        "price": 16
+      },
+      {
+        "id": 9,
+        "image": "/images/allproduct/09.jpg",
+        "title": "Margarita",
+        "subtitle": "Refreshing cocktail with lime and.",
+        "price": 8
+      },
+      {
+        "id": 10,
+        "image": "/images/allproduct/10.jpeg",
+        "title": "Pad Thai",
+        "subtitle": "Traditional Thai noodles with shrimp.",
+        "price": 15
+      },
+      {
+        "id": 11,
+        "image": "/images/allproduct/11.jpg",
+        "title": "Chocolate Cake",
+        "subtitle": "Rich and moist chocolate dessert.",
+        "price": 7
+      },
+      {
+        "id": 12,
+        "image": "/images/allproduct/12.jpg",
+        "title": "Sushi Platter",
+        "subtitle": "Assortment of fresh sushi rolls.",
+        "price": 25
+      },
+      {
+        "id": 13,
+        "image": "/images/allproduct/13.jpg",
+        "title": "Avocado Toast",
+        "subtitle": "Smashed avocado on crispy bread.",
+        "price": 9
+      },
+      {
+        "id": 14,
+        "image": "/images/allproduct/14.jpg",
+        "title": "French Fries",
+        "subtitle": "Golden and crispy potato fries.",
+        "price": 5
+      },
+      {
+        "id": 15,
+        "image": "/images/allproduct/15.jpg",
+        "title": "Tom Yum Soup",
+        "subtitle": "Spicy and sour Thai soup with shrimp.",
+        "price": 13
+      }
+    ]
+  }
+  

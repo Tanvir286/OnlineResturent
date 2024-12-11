@@ -9,10 +9,10 @@ const CheckOutPage = () => {
         <div className='bg-banner-white-all'>
          
             {/* Image part */}
-            <img 
+            {/* <img 
              src='/images/category/checkout.png' 
              alt="Cart Icon"  
-            />
+            /> */}
             {/* Image part */}
             <BillingInfo/>
 
